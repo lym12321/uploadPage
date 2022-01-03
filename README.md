@@ -3,7 +3,7 @@
 
 # 目录结构
 - index.php       主页，写了一堆马蜂奇特的`html`，但能用  
-- upload.php      用来对`post`来的图片进行检查并以`name-id.jpg`的统一格式保存图片  
+- upload.php      用来对`post`来的图片进行检查并以`name-id.jpg`的格式命名并保存图片  
 - checker.php     配合`upload.php`使用，里面有检查文件、检查姓名的函数（可以在这里修改合法条件）  
 - getImage.php    瞎写的接口，如果图片存在（已经上传）就返回图片目录，否则返回`图片不存在`  
 - uplaod_files    用来存放传上来的图片  
