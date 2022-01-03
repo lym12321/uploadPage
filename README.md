@@ -20,5 +20,6 @@
 - 某个巨说可以传木马上去，~~但我认为只能传不能运行~~
 
 # 实例
+![example](https://dev.dawn-light.cn/upload/1.png)
 <https://dev.dawn-light.cn/upload>  
 qwq欢迎dalao们来测bug  有任何问题可以联系QQ: 1713828398
