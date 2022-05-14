@@ -18,8 +18,3 @@
 - 输入对应姓名就可以看到TA上传的图片，所以不建议在公共场合用来收集带有敏感信息的图片
 - 因为`vue`的实时渲染问题，可能会导致对`getImage.php`的多次访问
 - 某个巨说可以传木马上去，~~但我认为只能传不能运行~~
-
-# 实例
-![example](https://camo.githubusercontent.com/0f547ccab827880fc0e878a3ec408390d6b45caff071279456c75b6c500ce5c3/68747470733a2f2f6465762e6461776e2d6c696768742e636e2f75706c6f61642f312e706e67)
-<https://dev.dawn-light.cn/upload>  
-qwq欢迎dalao们来测bug  有任何问题可以联系QQ: 1713828398
